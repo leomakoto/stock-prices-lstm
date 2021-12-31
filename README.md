@@ -1,2 +1,1 @@
-# stock-prices-lstm
-A very minimalist stock prices prediction using some basic form of LSTM.
+Please check the notebook for details. And the image, in case it didn't fit the notebook.
